@@ -1,0 +1,14 @@
+{
+    "name": "prithivirajplkm/digiweb",
+    "description": "Digisailor",
+    "type": "project",
+    "license": "GNU3",
+    "authors": [
+        {
+            "name": "Author Prithiviraj",
+            "email": "prithiviraj50@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
